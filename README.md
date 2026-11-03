@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v2.3.0 | [`v2.3.0`](https://github.com/chainguard-actions/akhilerm-tag-push-action/tree/v2.3.0) | [`eadeefe`](https://github.com/akhilerm/tag-push-action/commit/eadeefebd39db8a47e146115649adae1fce576a6) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v2.3.0 | [`v2.3.0`](https://github.com/chainguard-actions/akhilerm-tag-push-action/tree/v2.3.0) | [`eadeefe`](https://github.com/akhilerm/tag-push-action/commit/eadeefebd39db8a47e146115649adae1fce576a6) | [`HARDENING.md`](https://github.com/chainguard-actions/akhilerm-tag-push-action/blob/v2.3.0/HARDENING.md) |
 
 ## Privacy
 
